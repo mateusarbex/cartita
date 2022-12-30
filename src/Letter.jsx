@@ -26,7 +26,7 @@ export const Letter = ({ setShowLetter }) => {
             left: 20,
             marginTop: 80,
           }}
-          src="/img/animal-crossing.png"
+          src="img/animal-crossing.png"
         ></img>
         <svg
           onClick={(event) => {
